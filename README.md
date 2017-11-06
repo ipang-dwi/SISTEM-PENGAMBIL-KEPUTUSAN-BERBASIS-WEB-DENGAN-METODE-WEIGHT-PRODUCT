@@ -1,12 +1,10 @@
 SISTEM PENGAMBIL KEPUTUSAN BERBASIS WEB DENGAN METODE WEIGHT PRODUCT
 
-# spk-ahp-pemilihan-alat-kontrasepsi
-
-Aplikasi Sistem Pedukung Keputusan (SPK) pemilihan alat kontrasepsi dengan metode Analitycal Hierarchy Process (AHP) berbasis web, menggunakan native PHP5.
+Aplikasi Sistem Pedukung Keputusan (SPK) pemilihan bahan pembuat gitar dengan metode Wieght Procduct (WP) berbasis web, menggunakan native PHP5.
 
 Semoga bisa bermanfaat, bagi yang ingin mempelajari :
 - Web programming, terutama native PHP5, Jquery dan CSS3
-- Metode AHP untuk Sistem Pendukung Keputusan (SPK) / Decission Support System (DSS)
+- Metode Wieght Procduct (WP) untuk Sistem Pendukung Keputusan (SPK) / Decission Support System (DSS)
 
 Instalasi :
 - Cukup download atau clone file-file di repo ini, dan copy kan pada web direktori kamu.
