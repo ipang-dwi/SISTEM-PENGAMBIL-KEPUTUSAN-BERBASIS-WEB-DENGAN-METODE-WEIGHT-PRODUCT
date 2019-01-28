@@ -1,5 +1,7 @@
 SISTEM PENGAMBIL KEPUTUSAN BERBASIS WEB DENGAN METODE WEIGHT PRODUCT
 
+<img src="https://img.shields.io/github/license/ipang-dwi/xdesktop.svg" /> <img src="https://img.shields.io/badge/lab-firstplato.com-red.svg" />
+
 Aplikasi Sistem Pedukung Keputusan (SPK) pemilihan bahan pembuat gitar dengan metode Wieght Procduct (WP) berbasis web, menggunakan native PHP5.
 
 Semoga bisa bermanfaat, bagi yang ingin mempelajari :
